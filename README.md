@@ -1,18 +1,21 @@
 # Notes on Microsoft Dev Home
 
+<div style="float: right; margin-left: 10px;">
+<img src="./images/inner-loop.png" alt="The Inner Loop" aligg="right" width="300" height="300">
+</div>
+
 Dev Home is Developer Experience (DX) Dashboard that helps remove the onboarding friction for Developers building on Windows 11.
 
-It's a DX control center to help you get to the innter loop faster so you can experience the joy of designing, building, testing and deploying apps that make you happy.
+It's a DX control center to help you get to the innter loop faster so you can experience the joy of coding, building, testing and deploying apps that make you happy.
 
 It's a way of reducing the friction of the outer loop, by giving developers the tools, configuration and workflows to get out of the outer lopp and into the innerloop.
 
-![the Inner Loop]()
 
 Every Developer know the friction of starting on a new project or a new client and the challenges of getting your dev box working setup. Dev Home aims to fix this with a series of Windows based innovations that have been in the works for over 5 years. 
 
 Innovations such as:
 
-* Running populur Linux Distructions as a first class citizen of Windows, fully integgrated and supported by Microsoft - WSL
+* Running populur Linux Distructions as a first class citizen of Windows, fully integrated and supported by Microsoft - WSL / WSA
 * Ability to auto update these Linux Distrution with latest security patches and updates via the Windows Store
 * Giving developer a modern Terminal Experience so you can spend more time in the console writig code and less time clicking on buttons
 * Integrating Developer Identity as first class Citizend into Windows, to give accesse to GitHub and Azure Devops, etc.
@@ -20,7 +23,8 @@ Innovations such as:
 * Providing extensible plugins to developer for building their own dashboards
 * Providing fully supported Desired State Configuration (DSC) tooling  such WinGet and support for other tools such as chocoately
 * providing a protocol for installing and setting up the stack for builing complex application via .vsconfig to get the right apps and tools configured the right way on your Dev Box quickly
-* Making all of this as open as possible (Open Source)
+* Making all of this as open as possible
+* And much much more...(this is only the begining, 
 
 Dev Home started as a tweet Scott Hanselman in 2018, and has been described as the challenge of Yak Shaving - Doing all the things you need to do before you do the things that you need to do
 
